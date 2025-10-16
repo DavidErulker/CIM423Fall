@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Stranded Desert.unity
     guid: 6926c5b3535f7424c88742b3bed80fb1
   - enabled: 1
+    path: Assets/Scenes/Brutal Blizzard.unity
+    guid: 2c249f909d04b41a6a2bfe4948245a7c
+  - enabled: 1
     path: Assets/Scenes/End.unity
     guid: 53874b70be855431fabf415837f7a13e
   m_configObjects:
